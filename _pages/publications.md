@@ -21,6 +21,10 @@ Tasuya Nishijima, Ryota Tanaka, Yuya Ishijima, Akinobu Lee, <i>AAAI2020 Dialogue
 Ryota Tanaka, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>AAAI2019 Dialogue System Technology Challenge 7 workshop</i>, Oral (9/27 = 33.3%) 
 [[Link]](http://workshop.colips.org/dstc7/workshop.html)[[PDF]](https://arxiv.org/pdf/1902.01529.pdf)
 
+## Preprint
+ <b>Fact-based Dialogue Generation with Convergenet and Divergenet Decoding</b><br>
+Ryota Tanaka, Akinobu Lee [[PDF]](https://arxiv.org/pdf/2005.03174.pdf)
+
 ## Domestic Conference
 <b>話題展開器を導入した外部知識に基づく応答生成</b><br>
 田中涼太, 李晃伸, <i>第6回自然言語処理シンポジウム（第243回自然言語処理研究発表会)</i>
