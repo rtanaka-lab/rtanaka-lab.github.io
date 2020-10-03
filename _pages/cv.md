@@ -24,7 +24,7 @@ redirect_from:
   
 ## Skills
 * Programming Languages
-* Python,C,C++,Java,HTML
+  * Python,C,C++,Java,HTML
 * Deep Learning with Chainer, Pytorch, and Tensorflow
 
 ## Professional Activities
