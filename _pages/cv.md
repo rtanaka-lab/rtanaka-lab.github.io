@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
+* M.S. in Engineering, Nagoya Institute of Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Internship
+  * NTT Media Intelligence Laboratory
+  * Dialogue Generation and Dialogue Evaluation
+  * Supervisor: Koh Mitsuda
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2019: Research Internship
+  * NTT Media Intelligence Laboratory
+  * Role play-based Question Answering
+  * Supervisor: Koh Mitsuda, Ryuichiro Higashinaka
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+* Python,C,C++,Java,HTML
+* Deep Learning with Chainer, Pytorch, and Tensorflow
 
-Publications
+Professional Activities
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Teaching Assistant, Natural Language Processing Engineering, 2018
+* Teaching Assistant, Foraml Language and Automaton, 2018
+* Reviewer, AAAI2019 Dialgoue System Technology Challenge
+* Reviewer, AAAI2020 Dialgoue System Technology Challenge
+
+Honors & Award
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Japan Student Services Organization: Repayment Exemption of the Scholership, 2020
+* Vice-President's Award (Research) in Nitech, 2020
