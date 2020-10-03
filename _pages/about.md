@@ -18,4 +18,4 @@ redirect_from:
 </p>
 I am [Ryota Tanaka](https://rtanaka926lab.github.io/) from Japan. I am working at [NTT Media Intelligence Labolatory](https://www.ntt.co.jp/md/e/). Please feel free to browse my homepage and contact me. 
 
-* I received B.S. and MPhil in Computer Engineering from [Nagoya Institute of Technology](https://www.nitech.ac.jp/eng/) in 2018 and 2020. As an undergrad researcher, I worked with Prof. [Akinobu Lee](https://www.slp.nitech.ac.jp/members/ri/) in Lee Lab.
+* I received B.S. and MPhil in Computer Science and Engineering from [Nagoya Institute of Technology](https://www.nitech.ac.jp/eng/) in 2018 and 2020. As an undergrad researcher, I worked with Prof. [Akinobu Lee](https://www.slp.nitech.ac.jp/members/ri/) in Lee Lab.
