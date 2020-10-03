@@ -7,15 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
+ ## Education
 * B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
 * M.S. in Engineering, Nagoya Institute of Technology, 2020
 
-Work experience
-======
+## Work experience
 * Summer 2018: Research Internship
   * NTT Media Intelligence Laboratory
   * Dialogue Generation and Dialogue Evaluation
@@ -26,20 +23,17 @@ Work experience
   * Role play-based Question Answering
   * Supervisor: Koh Mitsuda, Ryuichiro Higashinaka
   
-Skills
-======
+## Skills
 * Programming Languages
 * Python,C,C++,Java,HTML
 * Deep Learning with Chainer, Pytorch, and Tensorflow
 
-Professional Activities
-======
+## Professional Activities
 * Teaching Assistant, Natural Language Processing Engineering, 2018
 * Teaching Assistant, Foraml Language and Automaton, 2018
 * Reviewer, AAAI2019 Dialgoue System Technology Challenge
 * Reviewer, AAAI2020 Dialgoue System Technology Challenge
 
-Honors & Award
-======
+## Honors & Award
 * Japan Student Services Organization: Repayment Exemption of the Scholership, 2020
 * Vice-President's Award (Research) in Nitech, 2020
