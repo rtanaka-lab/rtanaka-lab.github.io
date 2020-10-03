@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
- ## Education
+## Education
 * B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
 * M.S. in Engineering, Nagoya Institute of Technology, 2020
 
