@@ -13,9 +13,8 @@ redirect_from:
 
 ## Welome 
 <p align="center">
-  <img src="https://rtanaka926lab.github.io/images/ogp_nttrd.jpg" width="70" hspace="20">
   <img src="https://rtanaka926lab.github.io/images/H5c0n0pl.jpg" width="100" hspace="20"> 
-  <img src="https://rtanaka926lab.github.io/images/Nit-logo.gif" width="150" hspace="20">
+  <img src="https://rtanaka926lab.github.io/images/Nit-logo.gif" width="100" hspace="20">
 </p>
 I am Ryota Tanaka from Japan. I am working at [NTT Media Intelligence Labolatory](https://www.ntt.co.jp/md/e/). Please feel free to browse my homepage and contact me. 
 
