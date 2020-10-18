@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 10/2020: Uploaded my profile image
 - 09/2020: I've set up my web page!
 
 ## Welome 
