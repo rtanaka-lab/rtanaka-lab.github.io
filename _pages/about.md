@@ -17,6 +17,6 @@ redirect_from:
   <img src="https://rtanaka926lab.github.io/images/H5c0n0pl.jpg" width="100" hspace="20"> 
   <img src="https://rtanaka926lab.github.io/images/Nit-logo.gif" width="100" hspace="20">
 </p>
-I am [Ryota Tanaka](https://rtanaka926lab.github.io/) from Japan. I am working at [NTT Media Intelligence Labolatory](https://www.ntt.co.jp/md/e/). Please feel free to browse my homepage and contact me. 
+I am [Ryota Tanaka](https://rtanaka926lab.github.io/) from Japan. I am working at [NTT Media Intelligence Laboratory](https://www.ntt.co.jp/md/e/). Please feel free to browse my homepage and contact me. 
 
 * I received B.S. and MPhil in Computer Science and Engineering from [Nagoya Institute of Technology](https://www.nitech.ac.jp/eng/) in 2018 and 2020, working with Prof. [Akinobu Lee](https://www.slp.nitech.ac.jp/members/ri/) in Lee Lab.

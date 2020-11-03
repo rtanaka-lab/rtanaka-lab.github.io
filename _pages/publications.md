@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My current research topics lie in deep learning applications in natural language processing and vision & languge, in particular, machine readiong comprehension. Previously, I have also worked on dialogue generation, dialogue state tracking, and dialogue brealdown detection. 
+My current research topics lie in deep learning applications in natural language processing and vision & languge, in particular, machine readiong comprehension. Previously, I have also worked on dialogue generation, dialogue state tracking, and dialogue breakdown detection. 
 
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. (* denotes equal contribution)
 
