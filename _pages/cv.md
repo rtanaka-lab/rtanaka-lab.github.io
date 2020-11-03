@@ -14,12 +14,12 @@ redirect_from:
 ## Work experience
 * Summer 2018: Research Internship
   * NTT Media Intelligence Laboratory
-  * Dialogue Generation and Dialogue Evaluation
+  * Theme: Dialogue Generation and Dialogue Evaluation
   * Supervisor: Koh Mitsuda
 
 * Winter 2019: Research Internship
   * NTT Media Intelligence Laboratory
-  * Role play-based Question Answering
+  * Theme: Role play-based Question Answering
   * Supervisor: Koh Mitsuda, Ryuichiro Higashinaka
   
 ## Skills
