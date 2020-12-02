@@ -15,7 +15,7 @@ Ryota Tanaka, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>Computer Speech & Langu
 
 ## International Conference (Refereed)  
 <b>VisualMRC: Machine Reading Comprehension on Document Images</b><br>
-Ryota Tanaka*, Kyosuke Nishida*, Sen Yoshida <i>AAAI2021</i>
+Ryota Tanaka*, Kyosuke Nishida*, Sen Yoshida, <i>AAAI2021</i>
 
 <b>Speaker-Aware BERT for Multi-Party Dialogue Response Selection</b><br>
 Tasuya Nishijima, Ryota Tanaka, Yuya Ishijima, Akinobu Lee, <i>AAAI2020 Dialogue System Technology Challenge 8 workshop</i>, Poster [[Link]](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop)

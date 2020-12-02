@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 12/2020: My Visual Machine Reading Comprehension (VisualMRC) paper are acceptted at AAAI21! The dataset and paper will be soon available!
 - 10/2020: Uploaded my profile image
 - 09/2020: I've set up my web page!
 
