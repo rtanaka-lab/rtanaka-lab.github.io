@@ -15,13 +15,13 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 
 ## International Conference (Refereed)  
 <b>VisualMRC: Machine Reading Comprehension on Document Images</b><br>
-<b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <i> in Proceedings of the 35st AAAI Conference on Artificial Intelligence (AAAI2021)</i>
+<b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <i> in Proceedings of the 35st AAAI Conference on Artificial Intelligence (AAAI2021)</i>, (acceptance rate 1388/6993 = 19.8%)
 
 <b>Speaker-Aware BERT for Multi-Party Dialogue Response Selection</b><br>
 Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (DSTC8)</i>, Poster [[Link]](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop)
 
 <b>Ensemble Dialogue System for Facts-Based Sentence Generation</b><br>
-<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>in Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (DSTC7)</i>, Oral (9/27 = 33.3%) 
+<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>in Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (DSTC7)</i>, Oral (accetance rate 9/27 = 33.3%) 
 [[Link]](http://workshop.colips.org/dstc7/workshop.html)[[arXiv]](https://arxiv.org/pdf/1902.01529.pdf)
 
 ## Preprint
