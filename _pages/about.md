@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## News
-- 12/2020: My Visual Machine Reading Comprehension (VisualMRC) paper are acceptted at AAAI21! The dataset and paper will be soon available!
+- 03/2021: Our VisualMRC paper got Best Paper Award at The Annual Natual Lanugae Processing 2021 (NLP2021)
+- 12/2020: Our Visual Machine Reading Comprehension (VisualMRC) paper are acceptted at AAAI21! The dataset and paper will be soon available!
 - 10/2020: Uploaded my profile image
 - 09/2020: I've set up my web page!
 

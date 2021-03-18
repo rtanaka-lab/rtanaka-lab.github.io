@@ -7,7 +7,7 @@ author_profile: true
 
 My current research topics lie in deep learning applications in natural language processing and vision & languge, in particular, machine readiong comprehension. Previously, I have also worked on dialogue generation, dialogue state tracking, and dialogue breakdown detection. 
 
-You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. (* denotes equal contribution)
+You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## Journal
 <b>Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation</b> <br>
@@ -29,6 +29,9 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 <b>Ryota Tanaka</b>, Akinobu Lee [[arXiv]](https://arxiv.org/abs/2005.03174)
 
 ## Domestic Conference
+<b>VisualMRC: 文書画像に対する機械読解</b><br>
+<b>田中涼太*</b>, 西田京介*,　吉田仙 <i>言語処理学会第27回年次大会（NLP2021）</i>
+
 <b>話題展開器を導入した外部知識に基づく応答生成</b><br>
 <b>田中涼太</b>, 李晃伸, <i>第6回自然言語処理シンポジウム（第243回自然言語処理研究発表会)</i>
 
