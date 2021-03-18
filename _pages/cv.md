@@ -35,5 +35,6 @@ redirect_from:
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
 
 ## Honors & Award
+* Best Paper Award at The Annual Natual Lanugae Processing 2021 ([NLP2021](https://www.anlp.jp/nlp2021/))
 * Japan Student Services Organization: Repayment Exemption of the Scholership, 2020
 * Vice-President's Award (Research) in Nitech, 2020
