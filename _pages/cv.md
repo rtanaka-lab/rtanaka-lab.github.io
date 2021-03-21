@@ -35,6 +35,6 @@ redirect_from:
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
 
 ## Honors & Award
-* Best Paper Award at The 27th Association of Natural Language Processing ([NLP2021](https://www.anlp.jp/nlp2021/))
+* Best Paper Award  (2 out of 361 submissions) at The 27th Association of Natural Language Processing ([NLP2021](https://www.anlp.jp/nlp2021/))
 * Japan Student Services Organization: Repayment Exemption of the Scholership, 2020
 * Vice-President's Award (Research) in Nitech, 2020
