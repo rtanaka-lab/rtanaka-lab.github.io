@@ -30,7 +30,7 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 
 ## Domestic Conference
 <b>VisualMRC: 文書画像に対する機械読解</b><br>
-<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>
+<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>, <b>(Best Paper Award)[2 out of 361 submissions]</b>
 
 <b>話題展開器を導入した外部知識に基づく応答生成</b><br>
 <b>田中涼太</b>, 李晃伸, <i>第6回自然言語処理シンポジウム（第243回自然言語処理研究発表会)</i>
