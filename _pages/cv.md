@@ -32,7 +32,7 @@ redirect_from:
 
 ## Professional Activities
 * Teaching Assistant, Natural Language Processing Engineering, 2018
-* Teaching Assistant, Foraml Language and Automaton, 2018
+* Teaching Assistant, Formal Language and Automaton, 2018
 * Reviewer, AAAI2019 Dialgoue System Technology Challenge 7
 * Reviewer, AAAI2020 Dialgoue System Technology Challenge 8
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
