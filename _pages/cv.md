@@ -13,17 +13,17 @@ redirect_from:
 
 ## Work experience
 * Summer 2018: Research Internship
-  * NTT Media Intelligence Laboratories
+  * NTT Media Intelligence Laboratores, NTT corporation
   * Theme: Dialogue Generation and Dialogue Evaluation
   * Supervisor: [Koh Mitsuda](https://sites.google.com/site/hellomitsukoh)
 
 * Winter 2019: Research Internship
-  * NTT Media Intelligence Laboratories
+  * NTT Media Intelligence Laboratores, NTT corporation
   * Theme: Role play-based Question Answering
   * Supervisor: [Koh Mitsuda](https://sites.google.com/site/hellomitsukoh), [Ryuichiro Higashinaka](http://www.kecl.ntt.co.jp/icl/lirg/members/rh/)
 
 * 2020/4/1-: Research Staff  
-  * NTT Media Intelligence Laboratory
+  * NTT Media Intelligence Laboratores, NTT corporation
   
 ## Skills
 * Programming Languages
