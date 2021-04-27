@@ -38,6 +38,8 @@ redirect_from:
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
 
 ## Honors & Award
+* Outstanding Researcg Activity Award, NTT Media Intelligence Laboratores, NTT corporation, 2021
+* Rank 2nd out of 7 teams at [InfographicVQA competition](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3), 2021
 * [Best Paper Award](https://www.anlp.jp/nlp2021/award.html) (2 out of 361 submissions) at The 27th Association of Natural Language Processing ([NLP2021](https://www.anlp.jp/nlp2021/))
 * Japan Student Services Organization: Repayment Exemption of the Scholership, 2020
-* Vice-President's Award (Research) in Nitech, 2020
+* Vice-President's Award (Research), Nitech, 2020
