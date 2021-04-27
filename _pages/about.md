@@ -14,8 +14,6 @@ redirect_from:
 - 03/2021: Our VisualMRC paper got [Best Paper Award](https://www.anlp.jp/nlp2021/award.html) (2 out of 361 submissions) at The 27th Association of Natural Language Processing ([NLP2021](https://www.anlp.jp/nlp2021/))
 - 01/2021: VisualMRC dataset is out on [github](https://github.com/nttmdlab-nlp/VisualMRC). Please feel free to access!
 - 12/2020: Our Visual Machine Reading Comprehension (VisualMRC) paper are acceptted at AAAI21! The dataset and paper will be soon available!
-- 10/2020: Uploaded my profile image
-- 09/2020: I've set up my web page!
 
 ## Welome 
 <p align="center">
