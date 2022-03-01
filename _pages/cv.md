@@ -24,7 +24,10 @@ redirect_from:
 
 * 2020/4/1-: Research Staff  
   * NTT Media Intelligence Laboratores, NTT corporation
-  
+
+* 2021/07/01-: Research Staff  
+  * NTT Human Informatics Laboratores, NTT corporation
+
 ## Skills
 * Programming Languages
   * Python,C,C++,Java,HTML
@@ -38,7 +41,8 @@ redirect_from:
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
 
 ## Honors & Award
-* Outstanding Research Activity Award, NTT Media Intelligence Laboratores, NTT corporation, 2021
+* R&D Incentive Award (研究開発奨励賞), NTT Service Innovation Laboratory Group, NTT corporation, 2022
+* Outstanding Research Activity Award (研究活動賞), NTT Media Intelligence Laboratores, NTT corporation, 2021
 * Ranked 2nd out of 7 teams at [InfographicVQA competition](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3), 2021
 * [Best Paper Award](https://www.anlp.jp/nlp2021/award.html) (2 out of 361 submissions) at The 27th Association of Natural Language Processing ([NLP2021](https://www.anlp.jp/nlp2021/)), 2021
 * Exemption from Scholarship Refund for Excellent Student, Japan Student Services Organization (JASSO) Type I Scholarship (2,112,000 JPY), 2020
