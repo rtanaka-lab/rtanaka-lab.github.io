@@ -41,7 +41,7 @@ redirect_from:
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
 
 ## Invited Talks
-* Recent Trends in Document Visual Question Answering at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)
+* "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)
 
 ## Honors & Award
 * R&D Incentive Award (研究開発奨励賞), NTT Service Innovation Laboratory Group, NTT corporation, 2022
