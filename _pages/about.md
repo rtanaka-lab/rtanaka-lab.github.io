@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 03/2022: I was invited to talk about "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)  
 - 03/2022: I obtained R&D Incentive Award (研究開発奨励賞) from NTT Service Innovation Laboratory Group, NTT corporation
 - 04/2021: I obtained Outstanding Research Activity Award (研究活動賞) from NTT Media Intelligence Laboratores, NTT corporation
 - 04/2021: Our system IG-BERT ranked 2nd out of 7 teams at [InfographicVQA competition](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3)
