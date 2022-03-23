@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-- 03/2022: Our paper got Young Reseacher Award (12 out of 386 submissions) at The 27th Association of Natural Language Processing (NLP2022)
+- 03/2022: Our paper got Young Reseacher Award (12 out of 280 submissions) at The 27th Association of Natural Language Processing (NLP2022)
 - 03/2022: I was invited to talk about "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)  
 - 03/2022: I obtained R&D Incentive Award (研究開発奨励賞) from NTT Service Innovation Laboratory Group, NTT corporation
 - 04/2021: I obtained Outstanding Research Activity Award (研究活動賞) from NTT Media Intelligence Laboratories, NTT corporation

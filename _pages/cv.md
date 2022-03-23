@@ -44,7 +44,7 @@ redirect_from:
 * "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)
 
 ## Honors & Award
-* Young Reseracher Award (12 out of 386 submissions) at The 28th Association of Natural Language Processing (NLP2022), 2022
+* Young Reseracher Award (12 out of 280 submissions) at The 28th Association of Natural Language Processing (NLP2022), 2022
 * R&D Incentive Award (研究開発奨励賞), NTT Service Innovation Laboratory Group, NTT corporation, 2022
 * Outstanding Research Activity Award (研究活動賞), NTT Media Intelligence Laboratores, NTT corporation, 2021
 * Ranked 2nd out of 7 teams at [InfographicVQA competition](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3), 2021
