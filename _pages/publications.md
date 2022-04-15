@@ -30,10 +30,10 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 
 ## Domestic Conference
 <b>テキストと視覚的に表現された情報の融合理解に基づくインフォグラフィック質問応答</b><br>
-<b>田中涼太</b>, 西田京介, 許俊杰 (筑波大), 西岡秀一, <i>言語処理学会第28回年次大会（NLP2022）</i>, <b>(Young Researcher Award) [12 out of 386 submissions]</b>
+<b>田中涼太</b>, 西田京介, 許俊杰 (筑波大), 西岡秀一, <i>言語処理学会第28回年次大会（NLP2022）</i>, <span style="color: red; ">(若手奨励賞) [12 out of 280 submissions]</span>
 
 <b>VisualMRC: 文書画像に対する機械読解</b><br>
-<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>, <b>(Best Paper Award) [2 out of 361 submissions]</b>
+<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>, <span style="color: red; ">(最優秀賞) [2 out of 361 submissions]</span>
 
 <b>話題展開器を導入した外部知識に基づく応答生成</b><br>
 <b>田中涼太</b>, 李晃伸, <i>第6回自然言語処理シンポジウム（第243回自然言語処理研究発表会)</i>
