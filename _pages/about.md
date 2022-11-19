@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 11/2022: Our SlideVQA paper was acceptted at AAAI23! The dataset and paper will be soon available!
 - 03/2022: Our paper got Young Reseacher Award (12 out of 280 submissions) at The 27th Association of Natural Language Processing (NLP2022)
 - 03/2022: I was invited to talk about "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)  
 - 03/2022: I obtained R&D Incentive Award (研究開発奨励賞) from NTT Service Innovation Laboratory Group, NTT corporation

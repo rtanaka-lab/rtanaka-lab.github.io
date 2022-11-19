@@ -14,6 +14,9 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 <b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>Computer Speech & Language Journal</i>, vol. 62, July 2020 [[Link]](http://www.sciencedirect.com/science/article/pii/S0885230820300036)
 
 ## International Conference (Refereed)  
+<b>SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images</b><br>
+<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito <i> in Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI2023)</i>
+
 <b>VisualMRC: Machine Reading Comprehension on Document Images</b><br>
 <b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <i> in Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI2021)</i>, (acceptance rate 1388/6993 = 19.8%) [[arXiv]](https://arxiv.org/abs/2101.11272) [[data]](https://github.com/nttmdlab-nlp/VisualMRC)
 
@@ -30,10 +33,10 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 
 ## Domestic Conference
 <b>テキストと視覚的に表現された情報の融合理解に基づくインフォグラフィック質問応答</b><br>
-<b>田中涼太</b>, 西田京介, 許俊杰 (筑波大), 西岡秀一, <i>言語処理学会第28回年次大会（NLP2022）</i>, <span style="color: red; ">(若手奨励賞) [12 out of 280 submissions]</span>
+<b>田中涼太</b>, 西田京介, 許俊杰 (筑波大), 西岡秀一, <i>言語処理学会第28回年次大会（NLP2022）</i>, <span style="color: red; ">(若手奨励賞; 12/280 submissions)</span>
 
 <b>VisualMRC: 文書画像に対する機械読解</b><br>
-<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>, <span style="color: red; ">(最優秀賞) [2 out of 361 submissions]</span>
+<b>田中涼太</b>\*, 西田京介\*, 吉田仙, <i>言語処理学会第27回年次大会（NLP2021）</i>, <span style="color: red; ">(最優秀賞; 2/361 submissions)</span>
 
 <b>話題展開器を導入した外部知識に基づく応答生成</b><br>
 <b>田中涼太</b>, 李晃伸, <i>第6回自然言語処理シンポジウム（第243回自然言語処理研究発表会)</i>
