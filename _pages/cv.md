@@ -39,6 +39,7 @@ redirect_from:
 * Reviewer, AAAI2019 Dialgoue System Technology Challenge 7
 * Reviewer, AAAI2020 Dialgoue System Technology Challenge 8
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
+* Reviewer, COLING2022
 
 ## Invited Talks
 * "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)
