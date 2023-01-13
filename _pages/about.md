@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 01/2023: SlideVQA dataset is out on [github](https://github.com/nttmdlab-nlp/SlideVQA). Please feel free to access!
 - 11/2022: Our SlideVQA paper was acceptted at AAAI23! The dataset and paper will be soon available!
 - 03/2022: Our paper got Young Reseacher Award (12 out of 280 submissions) at The 27th Association of Natural Language Processing (NLP2022)
 - 03/2022: I was invited to talk about "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)  

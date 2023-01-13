@@ -15,7 +15,7 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 
 ## International Conference (Refereed)  
 <b>SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images</b><br>
-<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito <i> in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI2023)</i>
+<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito <i> in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI2023)</i>, (acceptance rate 1721/8777 = 19.6%) [[arXiv]](https://arxiv.org/abs/2301.04883) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
 
 <b>VisualMRC: Machine Reading Comprehension on Document Images</b><br>
 <b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <i> in Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI2021)</i>, (acceptance rate 1388/6993 = 19.8%) [[arXiv]](https://arxiv.org/abs/2101.11272) [[data]](https://github.com/nttmdlab-nlp/VisualMRC)
