@@ -35,7 +35,6 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 <b>SlideVQA: 複数の文書画像に対する質問応答</b><br>
 <b>田中涼太</b>, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子<i>言語処理学会第29回年次大会（NLP2023）</i>, <span style="color: red; ">(優秀賞; 11/579 submissions, 言語資源賞 2/97 submissions)</span>
 
-
 <b>テキストと視覚的に表現された情報の融合理解に基づくインフォグラフィック質問応答</b><br>
 <b>田中涼太</b>, 西田京介, 許俊杰 (筑波大), 西岡秀一, <i>言語処理学会第28回年次大会（NLP2022）</i>, <span style="color: red; ">(若手奨励賞; 12/280 submissions)</span>
 
