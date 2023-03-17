@@ -51,7 +51,7 @@ redirect_from:
 ## Honors & Award
 * [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (2 out of 97 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023
 * [Outstanding Paper Award](https://www.anlp.jp/nlp2023/award.html) (11 out of 579 submissions) at The 29th Association of Natural Language Processing (NLP2022), 2023
-* Young Reseracher Award (12 out of 280 submissions) at The 28th Association of Natural Language Processing (NLP2022), 2022
+* [Young Reseracher Award](https://www.anlp.jp/nlp2022/award.html) (12 out of 280 submissions) at The 28th Association of Natural Language Processing (NLP2022), 2022
 * R&D Incentive Award (研究開発奨励賞), NTT Service Innovation Laboratory Group, NTT corporation, 2022
 * Outstanding Research Activity Award (研究活動賞), NTT Media Intelligence Laboratores, NTT corporation, 2021
 * Ranked 2nd out of 7 teams at [InfographicVQA competition](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3), 2021
