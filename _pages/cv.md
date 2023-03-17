@@ -22,10 +22,10 @@ redirect_from:
   * Theme: Role play-based Question Answering
   * Supervisor: [Koh Mitsuda](https://sites.google.com/site/hellomitsukoh), [Ryuichiro Higashinaka](http://www.kecl.ntt.co.jp/icl/lirg/members/rh/)
 
-* 2020/4/1-: Research Staff  
+* 2020/4/1-: Researcher  
   * NTT Media Intelligence Laboratores, NTT corporation
 
-* 2021/07/01-: Research Staff  
+* 2021/07/01-: Researcher  
   * NTT Human Informatics Laboratores, NTT corporation
 
 ## Skills
@@ -42,7 +42,11 @@ redirect_from:
 * Reviewer, COLING2022
 
 ## Invited Talks
-* "Recent Trends in Document Visual Question Answering" at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0)
+* "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
+
+## Tutorial Talks
+* "Basics and Recent Trends in NLP and Vision-and-Language (NLPとVision-and-Languageの基礎・最新動向)" at [DEIM2023](https://event.dbsj.org/deim2023/post/tutorial.html), [slides](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
+
 
 ## Honors & Award
 * [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (2 out of 97 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023
