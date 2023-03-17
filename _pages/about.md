@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-- 03/2023: Our SlideVQA paper got Outstanding Paper Award (Top 2.2%) and Best Resource Paper Award (Top 2 out of 97 submissions) at The 29th Association of Natural Language Processing ([NLP2023](https://www.anlp.jp/nlp2023/))
+- 03/2023: Our SlideVQA paper got [Outstanding Paper Award](https://www.anlp.jp/nlp2023/award.html) (Top 2.2%) and [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (Top 2 out of 97 submissions) at The 29th Association of Natural Language Processing ([NLP2023](https://www.anlp.jp/nlp2023/))
 - 01/2023: SlideVQA dataset is out on [github](https://github.com/nttmdlab-nlp/SlideVQA). Please feel free to access!
 - 11/2022: Our SlideVQA paper was acceptted at AAAI23! The dataset and paper will be soon available!
 - 03/2022: Our paper got Young Reseacher Award (12 out of 280 submissions) at The 27th Association of Natural Language Processing (NLP2022)
