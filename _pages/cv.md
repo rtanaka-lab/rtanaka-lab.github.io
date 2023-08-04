@@ -10,6 +10,7 @@ redirect_from:
 ## Education
 * B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
 * M.S. in Engineering, Nagoya Institute of Technology, 2020
+* Ph.D student in Tohoku University, 2023-
 
 ## Work experience
 * Summer 2018: Research Internship
@@ -39,10 +40,11 @@ redirect_from:
 * Reviewer, AAAI2019 Dialgoue System Technology Challenge 7
 * Reviewer, AAAI2020 Dialgoue System Technology Challenge 8
 * Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
-* Reviewer, COLING2022
+* Reviewer, COLING2022, ACL2023
 
 ## Invited Talks
-* "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AIO2](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
+* "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
+* "Visual Document Understanding (視覚情報から文書を理解する視覚的読解技術) " at [AIロボット駆動科学シンポジウム](https://www.ai-robot-science-symposium2023.jp/)
 
 ## Tutorial Talks
 * "Basics and Recent Trends in NLP and Vision-and-Language (NLPとVision-and-Languageの基礎・最新動向)" at [DEIM2023](https://event.dbsj.org/deim2023/post/tutorial.html), [slides](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
