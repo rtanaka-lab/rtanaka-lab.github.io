@@ -37,14 +37,12 @@ redirect_from:
 ## Professional Activities
 * Teaching Assistant, Natural Language Processing Engineering, 2018
 * Teaching Assistant, Formal Language and Automaton, 2018
-* Reviewer, AAAI2019 Dialgoue System Technology Challenge 7
-* Reviewer, AAAI2020 Dialgoue System Technology Challenge 8
-* Reviewer, AAAI2021 Dialgoue System Technology Challenge 9
-* Reviewer, COLING2022, ACL2023，EMNLP2023
 
 ## Program Committee
 * [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/), 運営委員, 2022- 
 * [NLP若手の会 (YANS)](https://yans.anlp.jp/), 運営委員, 2023-
+* Reviewer of Dialgoue System Technology Challenge (DSTC), 2018-2021
+* Reviewer of COLING (2022), ACL (2023)，EMNLP (2023)
 
 ## Invited Talks
 * "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
