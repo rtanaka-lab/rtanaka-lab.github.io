@@ -10,12 +10,10 @@ My current research topics lie in deep learning applications in natural language
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## Journal
-<b>Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation</b> <br>
-<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <i>Computer Speech & Language Journal</i>, vol. 62, July 2020 [[Link]](http://www.sciencedirect.com/science/article/pii/S0885230820300036)
+<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <b>Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation</b>, Computer Speech & Language Journal, vol. 62, July 2020 [[Link]](http://www.sciencedirect.com/science/article/pii/S0885230820300036)
 
 ## International Conference (Refereed)  
-<b>SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images</b><br>
-<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito <i> in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI2023)</i> , <span style="color: red; ">Oral</span> (acceptance rate 1721/8777 = 19.6%) [[arXiv]](https://arxiv.org/abs/2301.04883) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
+<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito, <b>SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images</b>, Proceedings of the 37th AAAI Conference on Artificial Intelligence (<b>AAAI2023</b>), Oral, (acceptance rate 1721/8777 = 19.6%) [[arXiv]](https://arxiv.org/abs/2301.04883) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
 
 <b>VisualMRC: Machine Reading Comprehension on Document Images</b><br>
 <b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <i> in Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI2021)</i>, (acceptance rate 1388/6993 = 19.8%) [[arXiv]](https://arxiv.org/abs/2101.11272) [[data]](https://github.com/nttmdlab-nlp/VisualMRC)
@@ -33,7 +31,7 @@ Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <i>in Proceed
 
 ## Domestic Conference
 <b>説明可能なCartQAに向けた検討</b><br>
-木村昴, 田中涼太, 坂口慶祐 <i>NLP若手の会 (YANS) 第18回シンポジウム</i>
+木村昴, 田中涼太, 坂口慶祐, <i>NLP若手の会 (YANS) 第18回シンポジウム</i>
 
 <b>SlideVQA: 複数の文書画像に対する質問応答</b><br>
 <b>田中涼太</b>, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子<i>言語処理学会第29回年次大会（NLP2023）</i>, <span style="color: red; ">(優秀賞; 11/579 submissions, 言語資源賞 2/97 submissions)</span>
