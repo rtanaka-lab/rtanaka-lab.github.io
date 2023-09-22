@@ -50,6 +50,7 @@ redirect_from:
 
 ## Tutorial Talks
 * "Basics and Recent Trends in NLP and Vision-and-Language (NLPとVision-and-Languageの基礎・最新動向)" at [DEIM2023](https://event.dbsj.org/deim2023/post/tutorial.html), [slides](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
+* "Recent Trends in Large Language Models and Vision-and-Language (大規模言語モデルとVision-and-Languageの最新動向)" at [Visual Computing 2023](https://visualcomputing.jp/vc2023/tutorial/#tutorial_nishida)
 
 
 ## Honors & Award
