@@ -27,6 +27,7 @@ redirect_from:
 <p align="center">
   <img src="https://rtanaka-lab.github.io/images/H5c0n0pl.jpg" width="100" hspace="20"> 
   <img src="https://rtanaka-lab.github.io/images/Nit-logo.gif" width="100" hspace="20">
+  <img src="https://rtanaka-lab.github.io/images/tohoku_nlp.jpeg" width="100" hspace="20">
 </p>
 I am [Ryota Tanaka](https://rtanaka-lab.github.io/) from Japan. I am working at [NTT Human Informatics Laboratores, NTT corporation](https://www.rd.ntt/e/hil/). Please feel free to browse my homepage and contact me. 
 
