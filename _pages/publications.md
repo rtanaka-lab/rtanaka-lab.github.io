@@ -31,7 +31,7 @@ Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC
 [[arXiv]](https://arxiv.org/abs/2005.03174)
 
 ## Domestic Conference
-木村昴, <b>田中涼太</b>, 坂口慶祐, <b>説明可能なCartQAに向けた検討</b>,
+木村昴, <b>田中涼太</b>, 坂口慶祐, <b>説明可能なChartQAに向けた検討</b>,
 NLP若手の会 (<b>YANS</b>) 第18回シンポジウム
 
 <b>田中涼太</b>, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子, <b>SlideVQA: 複数の文書画像に対する質問応答</b>, 
