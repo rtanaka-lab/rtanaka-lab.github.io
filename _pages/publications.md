@@ -13,7 +13,7 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, vol. 62, July 2020
 
 ## International Conference (Refereed)  
-<u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
+<u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
 Understanding with Instructions](https://rtanaka-lab.github.io/publications/), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate xxx/xxx = xxx%)
 
 <u>Ryota Tanaka</u>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito, [SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://arxiv.org/abs/2301.04883), Proceedings of the 37th AAAI Conference on Artificial Intelligence (<b>AAAI2023</b>), Oral, (acceptance rate 1721/8777 = 19.6%) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
@@ -57,7 +57,7 @@ NLP若手の会 (<b>YANS</b>) 第14回シンポジウム
 石島侑弥, 尾関晃英, <u>田中涼太</u>, 加藤修悟, 西山達也, 李晃伸, <b>スケーラブルな対話状態追跡のための類似スロットに基づく未知スロット推定</b>,
 NLP若手の会 (<b>YANS</b>) 第14回シンポジウム
 
-西山達也, 尾関晃英, <b>田中涼太</b>, 加藤修悟, 石島侑弥, 李晃伸, <b>話者情報と外部知識を用いた複数人対話における応答選択</b>,
+西山達也, 尾関晃英, <u>田中涼太</u>, 加藤修悟, 石島侑弥, 李晃伸, <b>話者情報と外部知識を用いた複数人対話における応答選択</b>,
 NLP若手の会 (<b>YANS</b>) 第14回シンポジウム
 
 尾関晃英, <u>田中涼太</u>, 加藤修悟, 李晃伸, <b>DSTC7:Sentence Generation -End to End Conversation Modeling- における発話文選択機構の検討</b>,
