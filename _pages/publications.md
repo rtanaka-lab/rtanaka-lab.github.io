@@ -10,25 +10,24 @@ My current research topics lie in deep learning applications in natural language
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## Journal
-<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <b>Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation</b>, Computer Speech & Language Journal, vol. 62, July 2020 [[Link]](http://www.sciencedirect.com/science/article/pii/S0885230820300036)
+<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, vol. 62, July 2020
 
 ## International Conference (Refereed)  
-<b>Ryota Tanaka</b>, Taichi Iki, Kyosuke Nishida, Jun Suzuki, <b>InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
-Understanding with Instructions</b>, Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate xxx/xxx = xxx%)
+<b>Ryota Tanaka</b>, Taichi Iki, Kyosuke Nishida, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
+Understanding with Instructions](https://rtanaka-lab.github.io/publications/), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate xxx/xxx = xxx%)
 
-<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito, <b>SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images</b>, Proceedings of the 37th AAAI Conference on Artificial Intelligence (<b>AAAI2023</b>), Oral, (acceptance rate 1721/8777 = 19.6%) [[arXiv]](https://arxiv.org/abs/2301.04883) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
+<b>Ryota Tanaka</b>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito, [SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://arxiv.org/abs/2301.04883), Proceedings of the 37th AAAI Conference on Artificial Intelligence (<b>AAAI2023</b>), Oral, (acceptance rate 1721/8777 = 19.6%) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
 
-<b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, <b>VisualMRC: Machine Reading Comprehension on Document Images</b>, Proceedings of the 35th AAAI Conference on Artificial Intelligence (<b>AAAI2021</b>), (acceptance rate 1388/6993 = 19.8%) [[arXiv]](https://arxiv.org/abs/2101.11272) [[data]](https://github.com/nttmdlab-nlp/VisualMRC)
+<b>Ryota Tanaka</b>\*, Kyosuke Nishida\*, Sen Yoshida, [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272), Proceedings of the 35th AAAI Conference on Artificial Intelligence (<b>AAAI2021</b>), (acceptance rate 1388/6993 = 19.8%)[[data]](https://github.com/nttmdlab-nlp/VisualMRC)
 
-Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, <b>Speaker-Aware BERT for Multi-Party Dialogue Response Selection</b>,
-Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC8</b>), Poster [[Link]](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop)
+Tasuya Nishijima, <b>Ryota Tanaka</b>, Yuya Ishijima, Akinobu Lee, [Speaker-Aware BERT for Multi-Party Dialogue Response Selection](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop),
+Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC8</b>), Poster
 
-<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, <b>Ensemble Dialogue System for Facts-Based Sentence Generation</b>, Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (<b>DSTC7</b>), Oral, (accetance rate 9/27 = 33.3%) 
-[[Link]](http://workshop.colips.org/dstc7/workshop.html)[[arXiv]](https://arxiv.org/pdf/1902.01529.pdf)
+<b>Ryota Tanaka</b>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Ensemble Dialogue System for Facts-Based Sentence Generation](https://arxiv.org/pdf/1902.01529.pdf), Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (<b>DSTC7</b>), Oral, (accetance rate 9/27 = 33.3%) 
+[[Link]](http://workshop.colips.org/dstc7/workshop.html)
 
 ## Preprint
-<b>Ryota Tanaka</b>, Akinobu Lee, <b>Fact-based Dialogue Generation with Convergenet and Divergenet Decoding</b>
-[[arXiv]](https://arxiv.org/abs/2005.03174)
+<b>Ryota Tanaka</b>, Akinobu Lee, [Fact-based Dialogue Generation with Convergenet and Divergenet Decoding](https://arxiv.org/abs/2005.03174))
 
 ## Domestic Conference
 木村昴, <b>田中涼太</b>, 坂口慶祐, <b>説明可能なChartQAに向けた検討</b>,
