@@ -14,7 +14,7 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 
 ## International Conference (Refereed)  
 - <u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
-Understanding with Instructions](https://rtanaka-lab.github.io/publications/), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate xxx/xxx = xxx%)
+Understanding with Instructions](https://rtanaka-lab.github.io/publications/), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate 2342/9862 = 23.8%)
 
 - <u>Ryota Tanaka</u>, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itusmi Saito, Kuniko Saito, [SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://arxiv.org/abs/2301.04883), Proceedings of the 37th AAAI Conference on Artificial Intelligence (<b>AAAI2023</b>), Oral, (acceptance rate 1721/8777 = 19.6%) [[data]](https://github.com/nttmdlab-nlp/SlideVQA)
 
