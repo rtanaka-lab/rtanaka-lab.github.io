@@ -10,6 +10,7 @@ redirect_from:
 I am currently serving as a researcher in [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/). My current research topics lie in deep learning applications in natural language processing and vision & language, in particular, visual document understanding. Concurrently, I am also pursuing my Ph.D. at [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/), under the supervision of Prof. Jun Suzuki. I obtained my B.Eng. and M.I. degrees from [Nagoya Institute of Technology](https://www.slp.nitech.ac.jp/en/) in 2018 and 2020, respectively, where I was fortunate to be advised by Prof. Akinobu Lee.
 
 ## News
+- 01/2024: InstructDoc dataset is out on [github](https://github.com/nttmdlab-nlp/instructdoc). Please feel free to access!
 - 12/2023: Our InstructDoc paper was acceptted at AAAI24! The dataset and paper will be soon available!
 - 06/2023: I obtained Best Research Award (最優秀研究賞) from NTT Human Informatics Laboratory, NTT corporation
 - 03/2023: Our SlideVQA paper got [Outstanding Paper Award](https://www.anlp.jp/nlp2023/award.html) (Top 2.2%) and [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (Top 2 out of 97 submissions) at The 29th Association of Natural Language Processing ([NLP2023](https://www.anlp.jp/nlp2023/))
