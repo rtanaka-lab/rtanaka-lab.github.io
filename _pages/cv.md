@@ -54,6 +54,7 @@ redirect_from:
 
 
 ## Honors & Award
+* [Outstanding Paper Award](https://www.anlp.jp/nlp2024/award.html) (12 out of 599 submissions) at The 30th Association of Natural Language Processing (NLP2024), 2024
 * Best Research Award (最優秀研究賞), NTT Human Informatics Laboratory, NTT corporation, 2023
 * [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (2 out of 97 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023
 * [Outstanding Paper Award](https://www.anlp.jp/nlp2023/award.html) (11 out of 579 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023

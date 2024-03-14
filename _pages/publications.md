@@ -27,7 +27,7 @@ Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC
 - <u>Ryota Tanaka</u>, Akinobu Lee, [Fact-based Dialogue Generation with Convergenet and Divergenet Decoding](https://arxiv.org/abs/2005.03174))
 
 ## Domestic Conference
-- <u>田中涼太</u>, 壹岐太一, 西田京介, 齋藤邦子, 鈴木潤, <b>InstructDoc: 自然言語指示に基づく視覚的文書理解あ</b>, 
+- <u>田中涼太</u>, 壹岐太一, 西田京介, 齋藤邦子, 鈴木潤, <b>InstructDoc: 自然言語指示に基づく視覚的文書理解</b>, 
 言語処理学会第30回年次大会 (<b>NLP2024</b>), <span style="color: red; ">(優秀賞; 12/599 submissions)</span>
 
 - 塩野大輝, 宮脇峻平, <u>田中涼太</u>, 鈴木潤, <b>大規模視覚言語モデルに関する指示追従能力の検証</b>, 
