@@ -42,7 +42,7 @@ redirect_from:
 * [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/), 運営委員, 2022- 
 * [NLP若手の会 (YANS)](https://yans.anlp.jp/), 運営委員, 2023
 * Reviewer of Dialgoue System Technology Challenge (DSTC), 2018-2021
-* Reviewer of COLING (2022), ACL (2023)，EMNLP (2023)
+* Reviewer of COLING (2022,2023), ACL (2023)，EMNLP (2023)
 
 ## Invited Talks
 * "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
