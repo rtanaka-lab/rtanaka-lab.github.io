@@ -8,6 +8,8 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 
 ## Journal
 - <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, vol. 62, July 2020
+- <u>Tomoki Ariyama</u>, Jun Suzuki, Masatoshi Suzuki, Ryota Tanaka, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
+
 
 ## International Conference (Refereed)  
 - <u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
