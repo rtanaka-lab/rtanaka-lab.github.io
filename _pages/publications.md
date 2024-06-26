@@ -7,11 +7,15 @@ author_profile: true
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## Journal
-- Tomoki Ariyama Jun Suzuki, Masatoshi Suzuki, <u>Ryota Tanaka</u>,, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
+- Tomoki Ariyama, Jun Suzuki, Masatoshi Suzuki, <u>Ryota Tanaka</u>, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
 - <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, Vol.62, July 2020
 
 
 ## International Conference (Refereed)  
+- Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, Instruction-Following Evaluation for Large Vision-Language Models, Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+
+- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection, Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+
 - <u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
 Understanding with Instructions](https://arxiv.org/abs/2401.13313), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate 2342/9862 = 23.8%) [[data]](https://github.com/nttmdlab-nlp/InstructDoc)
 
