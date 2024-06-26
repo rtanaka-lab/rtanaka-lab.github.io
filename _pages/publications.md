@@ -12,10 +12,6 @@ You can also check my [Google Scholar](https://scholar.google.com/citations?user
 
 
 ## International Conference (Refereed)  
-- Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, Instruction-Following Evaluation for Large Vision-Language Models, Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
-
-- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection, Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
-
 - <u>Ryota Tanaka</u>, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [InstructDoc: A Dataset for Zero-shot Generalization of Visual Document
 Understanding with Instructions](https://arxiv.org/abs/2401.13313), Proceedings of the 38th AAAI Conference on Artificial Intelligence (<b>AAAI2024</b>) (acceptance rate 2342/9862 = 23.8%) [[data]](https://github.com/nttmdlab-nlp/InstructDoc)
 
@@ -23,11 +19,18 @@ Understanding with Instructions](https://arxiv.org/abs/2401.13313), Proceedings 
 
 - <u>Ryota Tanaka</u>\*, Kyosuke Nishida\*, Sen Yoshida, [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272), Proceedings of the 35th AAAI Conference on Artificial Intelligence (<b>AAAI2021</b>), (acceptance rate 1388/6993 = 19.8%)[[data]](https://github.com/nttmdlab-nlp/VisualMRC)
 
+
+## International Workshop (Refereed)  
+- Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, [Instruction-Following Evaluation for Large Vision-Language Models](https://naacl2024-srw.github.io/accepted), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+
+- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, [Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection](https://naacl2024-srw.github.io/accepted), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+
 - Tasuya Nishijima, <u>Ryota Tanaka</u>, Yuya Ishijima, Akinobu Lee, [Speaker-Aware BERT for Multi-Party Dialogue Response Selection](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop),
 Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC8</b>), Poster
 
 - <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Ensemble Dialogue System for Facts-Based Sentence Generation](https://arxiv.org/pdf/1902.01529.pdf), Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (<b>DSTC7</b>), Oral, (accetance rate 9/27 = 33.3%) 
 [[Link]](http://workshop.colips.org/dstc7/workshop.html)
+
 
 ## Preprint
 - <u>Ryota Tanaka</u>, Akinobu Lee, [Fact-based Dialogue Generation with Convergenet and Divergenet Decoding](https://arxiv.org/abs/2005.03174))
