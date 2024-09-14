@@ -45,7 +45,7 @@ redirect_from:
 * Reviewer of COLING (2022,2023), ACL (2023)，EMNLP (2023)
 
 ## Talks
-* "Recent Trends in Large Vision Language Models (大規模言語モデルによる視覚・言語の融合) " at [第12回岡山大学AI研究会](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html), [slides](https://speakerdeck.com/ryotatanaka/large-vision-language-models)
+* "Large Vision Language Models (大規模言語モデルによる視覚・言語の融合) " at [第12回岡山大学AI研究会](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html), [slides](https://speakerdeck.com/ryotatanaka/large-vision-language-models)
 * "Recent Trends in LLM-based Visual Document Understanding (大規模言語モデルによる文書画像理解の最新動向) " at [LLM-jp](https://llm-jp.nii.ac.jp/), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
 * "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [第2回AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
 * "Visual Document Understanding (視覚情報から文書を理解する視覚的読解技術) " at [AIロボット駆動科学シンポジウム](https://www.ai-robot-science-symposium2023.jp/)
