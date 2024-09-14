@@ -21,9 +21,11 @@ Understanding with Instructions](https://arxiv.org/abs/2401.13313), Proceedings 
 
 
 ## International Workshop (Refereed)  
-- Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, [Instruction-Following Evaluation for Large Vision-Language Models](https://naacl2024-srw.github.io/accepted), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+- Haruto Yoshida, Keito Kudo, Yoichi Aoki, <u>Ryota Tanaka</u>, Itsumi Sito, Keisuke Sakaguchi, Kentaro Inui [How Well Do Vision Models Encode Diagram Attributes?](https://2024.aclweb.org/calls/student_research_workshop/), Non-archival submission for the 62nd Annual Meeting of the Association for Computational Linguistics Student Research Workshop (<b>ACL SRW 2024<b>)
 
-- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, [Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection](https://naacl2024-srw.github.io/accepted), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+- Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, [Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection](https://arxiv.org/abs/2408.03554), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
+
+- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, [Instruction-Following Evaluation for Large Vision-Language Models](https://naacl2024-srw.github.io/accepted), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
 
 - Tatsuya Nishijima, <u>Ryota Tanaka</u>, Yuya Ishijima, Akinobu Lee, [Speaker-Aware BERT for Multi-Party Dialogue Response Selection](https://sites.google.com/dstc.community/dstc8/aaai-20-workshop),
 Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC8</b>), Poster

@@ -44,12 +44,11 @@ redirect_from:
 * Reviewer of Dialgoue System Technology Challenge (DSTC), 2018-2021
 * Reviewer of COLING (2022,2023), ACL (2023)，EMNLP (2023)
 
-## Invited Talks
-* "Recent Trends in  LLM-based Visual Document Understanding (大規模言語モデルによる文書画像理解の最新動向) " at [LLM-jp](https://llm-jp.nii.ac.jp/), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
-* "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
+## Talks
+* "Recent Trends in Large Vision Language Models (大規模言語モデルによる視覚・言語の融合) " at [第12回岡山大学AI研究会](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html), [slides](https://speakerdeck.com/ryotatanaka/large-vision-language-models)
+* "Recent Trends in LLM-based Visual Document Understanding (大規模言語モデルによる文書画像理解の最新動向) " at [LLM-jp](https://llm-jp.nii.ac.jp/), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
+* "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [第2回AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
 * "Visual Document Understanding (視覚情報から文書を理解する視覚的読解技術) " at [AIロボット駆動科学シンポジウム](https://www.ai-robot-science-symposium2023.jp/)
-
-## Tutorial Talks
 * "Basics and Recent Trends in NLP and Vision-and-Language (NLPとVision-and-Languageの基礎・最新動向)" at [DEIM2023](https://event.dbsj.org/deim2023/post/tutorial.html), [slides](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
 * "Recent Trends in Large Language Models and Vision-and-Language (大規模言語モデルとVision-and-Languageの最新動向)" at [Visual Computing 2023](https://visualcomputing.jp/vc2023/tutorial/#tutorial_nishida)
 
