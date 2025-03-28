@@ -56,6 +56,8 @@ redirect_from:
 
 ## Honors & Award
 * President's Award, Tohoku University, 2025
+* [Association for Natural Language Processing Best Paper Award 2024](https://www.anlp.jp/award/ronbun.html) (1 out of 52 accepted papers) from Association for Natural Language Processing
+* [Special Comittee Award](https://www.anlp.jp/nlp2025/award.html) (32 out of 726 submissions) at The 31th Association of Natural Language Processing (NLP2025), 2025
 * [Outstanding Paper Award](https://www.anlp.jp/nlp2024/award.html) (12 out of 599 submissions) at The 30th Association of Natural Language Processing (NLP2024), 2024
 * Best Research Award (最優秀研究賞), NTT Human Informatics Laboratory, NTT corporation, 2023
 * [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (2 out of 97 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023
