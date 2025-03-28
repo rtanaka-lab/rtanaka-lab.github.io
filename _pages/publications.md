@@ -6,11 +6,6 @@ author_profile: true
 ---
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
-## Journal
-- Tomoki Ariyama, Jun Suzuki, Masatoshi Suzuki, <u>Ryota Tanaka</u>, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
-- <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, Vol.62, July 2020
-
-
 ## International Conference (Refereed)  
 - <u>Ryota Tanaka</u>, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents
 ](https://rtanaka-lab.github.io/publications/), Proceedings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (<b>CVPR2025</b>) (acceptance rate 2878/13008 = 22.1%) 
@@ -36,11 +31,24 @@ Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC
 - <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Ensemble Dialogue System for Facts-Based Sentence Generation](https://arxiv.org/pdf/1902.01529.pdf), Proceedings of AAAI2019 Dialogue System Technology Challenge 7 workshop (<b>DSTC7</b>), Oral, (accetance rate 9/27 = 33.3%) 
 [[Link]](http://workshop.colips.org/dstc7/workshop.html)
 
+## Journal
+- Tomoki Ariyama, Jun Suzuki, Masatoshi Suzuki, <u>Ryota Tanaka</u>, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
+- <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, Vol.62, July 2020
 
 ## Preprint
 - <u>Ryota Tanaka</u>, Akinobu Lee, [Fact-based Dialogue Generation with Convergenet and Divergenet Decoding](https://arxiv.org/abs/2005.03174)
 
+
 ## Domestic Conference
+- <u>田中涼太</u>, 壹岐太一, 長谷川拓, 西田京介, 齋藤邦子, 鈴木潤, <b>VDocRAG: 視覚的文書に対する検索拡張生成</b>, 
+言語処理学会第31回年次大会 (<b>NLP2025</b>), <span style="color: red; ">(委員特別賞; 32/726 submissions)</span>
+
+- 吉田遥音, 工藤慧音, 青木洋一, <u>田中涼太</u>, 斉藤いつみ, 坂口慶祐, 乾健太郎, <b>ダイアグラム理解に向けた大規模視覚言語モデルの内部表現の分析</b>, 
+言語処理学会第31回年次大会 (<b>NLP2025</b>)
+
+- 塩野大輝, <u>田中涼太</u>,　宮脇峻平, 工藤慧音, 鈴木潤, <b>Padding vs. Packing: 大規模言語モデルのファインチューニングにおける学習効果の検証</b>, 
+言語処理学会第31回年次大会 (<b>NLP2025</b>)
+
 - <u>田中涼太</u>, 壹岐太一, 西田京介, 齋藤邦子, 鈴木潤, <b>InstructDoc: 自然言語指示に基づく視覚的文書理解</b>, 
 言語処理学会第30回年次大会 (<b>NLP2024</b>), <span style="color: red; ">(優秀賞; 12/599 submissions)</span>
 

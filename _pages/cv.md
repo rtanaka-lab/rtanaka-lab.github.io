@@ -10,7 +10,7 @@ redirect_from:
 ## Education
 * B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
 * M.S. in Engineering, Nagoya Institute of Technology, 2020
-* Ph.D student in Tohoku University, 2023-
+* Ph.D student in Tohoku University, 2023-2024
 
 ## Work experience
 * Summer 2018: Research Internship
@@ -42,9 +42,10 @@ redirect_from:
 * [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/), 運営委員, 2022- 
 * [NLP若手の会 (YANS)](https://yans.anlp.jp/), 運営委員, 2023
 * Reviewer of Dialgoue System Technology Challenge (DSTC), 2018-2021
-* Reviewer of COLING (2022,2023), ACL (2023)，EMNLP (2023)
+* Reviewer of COLING (2022,2023), ACL (2023)，EMNLP (2023), CVPR (2025)
 
 ## Talks
+* "Trends and Outlook in Generative AI (生成AIの現状と今後の展開) " in [QST](https://www.qst.go.jp/)
 * "Large Vision Language Models (大規模言語モデルによる視覚・言語の融合) " at [第12回岡山大学AI研究会](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html), [slides](https://speakerdeck.com/ryotatanaka/large-vision-language-models)
 * "Recent Trends in LLM-based Visual Document Understanding (大規模言語モデルによる文書画像理解の最新動向) " at [LLM-jp](https://llm-jp.nii.ac.jp/), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
 * "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [第2回AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
@@ -54,6 +55,7 @@ redirect_from:
 
 
 ## Honors & Award
+* President's Award, Tohoku University, 2025
 * [Outstanding Paper Award](https://www.anlp.jp/nlp2024/award.html) (12 out of 599 submissions) at The 30th Association of Natural Language Processing (NLP2024), 2024
 * Best Research Award (最優秀研究賞), NTT Human Informatics Laboratory, NTT corporation, 2023
 * [Best Resource Paper Award](https://www.anlp.jp/nlp2023/award.html) (2 out of 97 submissions) at The 29th Association of Natural Language Processing (NLP2023), 2023
