@@ -10,7 +10,7 @@ redirect_from:
 ## Education
 * B.S. in Computer Science and Engineering, Nagoya Institute of Technology, 2018
 * M.S. in Engineering, Nagoya Institute of Technology, 2020
-* Ph.D in Tohoku University, 2025
+* Ph.D in Information Sciences, Tohoku University, 2025
 
 ## Work experience
 * Summer 2018: Research Internship
