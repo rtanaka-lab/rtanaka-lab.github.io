@@ -23,11 +23,15 @@ redirect_from:
   * Theme: Role play-based Question Answering
   * Supervisor: [Koh Mitsuda](https://sites.google.com/site/hellomitsukoh), [Ryuichiro Higashinaka](http://www.kecl.ntt.co.jp/icl/lirg/members/rh/)
 
-* 2020/4/1-: Researcher  
+* 2020/4/1-2021/6/30: Researcher  
   * NTT Media Intelligence Laboratores, NTT corporation
 
-* 2021/07/01-: Researcher  
+* 2021/07/01-2025/03/31: Researcher  
   * NTT Human Informatics Laboratores, NTT corporation
+
+* 2025/04/01-: Associate Distinguished Researcher  
+  * NTT Human Informatics Laboratores, NTT corporation
+
 
 ## Skills
 * Programming Languages
