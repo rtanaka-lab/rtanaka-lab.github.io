@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently serving as a associate distinguished researcher in [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/). My current research topics lie in deep learning applications in natural language processing and vision & language, in particular, visual document understanding. I have completed Ph.D. at [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/), under the supervision of Prof. Jun Suzuki. I obtained my B.Eng. and M.I. degrees from [Nagoya Institute of Technology](https://www.slp.nitech.ac.jp/en/) in 2018 and 2020, respectively, where I was fortunate to be advised by Prof. Akinobu Lee.
+I am currently serving as an associate distinguished researcher in [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/). My current research topics lie in deep learning applications in natural language processing and vision & language, in particular, visual document understanding. I have completed Ph.D. at [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/), under the supervision of Prof. Jun Suzuki. I obtained my B.Eng. and M.I. degrees from [Nagoya Institute of Technology](https://www.slp.nitech.ac.jp/en/) in 2018 and 2020, respectively, where I was fortunate to be advised by Prof. Akinobu Lee.
 
 ## News
 - 03/2025: I obtained Ph.D (Information Sciences) in [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/).
