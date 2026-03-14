@@ -32,6 +32,7 @@ Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC
 [[Link]](http://workshop.colips.org/dstc7/workshop.html)
 
 ## Journal
+- Daiki Shiono, Shumpei Miyawaki, <u>Ryota Tanaka</u>, Jun Suzuki, [Instruction-Following Evaluation of Large Vision-Language Models](https://link.springer.com/article/10.1007/s00354-025-00308-2), New Generation Computing, Volume 44, Article 7, January 2026
 - Tomoki Ariyama, Jun Suzuki, Masatoshi Suzuki, <u>Ryota Tanaka</u>, Reina Akama, Kyosuke Nishida, [Achievements and Challenges in Japanese Question Answering: Insights from Quiz Competition Results](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_47/_pdf/-char/ja), JNLP, Vol.31, No.1, pp.47–78, March 2024
 - <u>Ryota Tanaka</u>, Akihide Ozeki, Shugo Kato, Akinobu Lee, [Context and Knowledge Aware Dialogue System and System Combination for Grounded Response Generation](http://www.sciencedirect.com/science/article/pii/S0885230820300036), Computer Speech & Language Journal, Vol.62, July 2020
 
@@ -40,6 +41,15 @@ Proceedings of AAAI2020 Dialogue System Technology Challenge 8 workshop (<b>DSTC
 
 
 ## Domestic Conference
+- <u>田中涼太</u>, 長谷川拓, 西田京介, <b>CMDR: 文脈を考慮したマルチモーダル文書検索</b>, 
+言語処理学会第32回年次大会 (<b>NLP2026</b>), <span style="color: red; ">(優秀賞; 13/789 submissions)</span>
+
+- 吉田遥音, 工藤慧音, 青木洋一, <u>田中涼太</u>, 斉藤いつみ, 坂口慶祐, 乾健太郎, <b>大規模視覚言語モデル内部におけるダイアグラムの表現形成過程</b>, 
+言語処理学会第32回年次大会 (<b>NLP2026</b>), <span style="color: red; ">(優秀賞; 13/789 submissions)</span>
+
+- 川﨑春佳, <u>田中涼太</u>,　壹岐太一, 西田京介, <b>視覚的文書理解モデルの内部機序に基づくチューニング</b>, 
+言語処理学会第32回年次大会 (<b>NLP2026</b>)
+
 - <u>田中涼太</u>, 壹岐太一, 長谷川拓, 西田京介, 齋藤邦子, 鈴木潤, <b>VDocRAG: 視覚的文書に対する検索拡張生成</b>, 
 言語処理学会第31回年次大会 (<b>NLP2025</b>), <span style="color: red; ">(委員特別賞; 32/726 submissions)</span>
 

@@ -50,7 +50,7 @@ redirect_from:
 
 ## Talks
 * "Recent Advances in Large Language Models and Vision-and-Language Models" at [ADMA2025](https://adma2025.github.io/tutorial.html)
-* "Trends and Outlook in Generative AI (生成AIの現状と今後の展開) " in [QST](https://www.qst.go.jp/)
+* "Trends and Outlook in Generative AI (生成AIの現状と今後の展開) " at [QST](https://www.qst.go.jp/)
 * "Large Vision Language Models (大規模言語モデルによる視覚・言語の融合) " at [第12回岡山大学AI研究会](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html), [slides](https://speakerdeck.com/ryotatanaka/large-vision-language-models)
 * "Recent Trends in LLM-based Visual Document Understanding (大規模言語モデルによる文書画像理解の最新動向) " at [LLM-jp](https://llm-jp.nii.ac.jp/), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
 * "Recent Trends in Document Visual Question Answering (文書画像に対する質問応答技術の最新動向) " at [第2回AI王](https://sites.google.com/view/project-aio/competition2?authuser=0), [slides](https://speakerdeck.com/ryotatanaka/recent-trends-in-document-visual-question-answering)
@@ -60,6 +60,8 @@ redirect_from:
 
 
 ## Honors & Award
+* [Outstanding Paper Award](https://www.anlp.jp/nlp2026/award.html) (13 out of 789 submissions) at The 32th Association of Natural Language Processing (NLP2026), 2026
+* [Outstanding Paper Award](https://www.anlp.jp/nlp2026/award.html) (13 out of 789 submissions) at The 32th Association of Natural Language Processing (NLP2026), 2026
 * President's Award, Tohoku University, 2025
 * [Association for Natural Language Processing Best Paper Award 2024](https://www.anlp.jp/award/ronbun.html) (1 out of 52 accepted papers) from Association for Natural Language Processing
 * [Special Comittee Award](https://www.anlp.jp/nlp2025/award.html) (32 out of 726 submissions) at The 31th Association of Natural Language Processing (NLP2025), 2025
