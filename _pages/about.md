@@ -10,6 +10,7 @@ redirect_from:
 I am currently serving as an associate distinguished researcher in [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/). My current research topics lie in deep learning applications in natural language processing and vision & language, in particular, visual document understanding. I have completed Ph.D. at [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/), under the supervision of Prof. Jun Suzuki. I obtained my B.Eng. and M.I. degrees from [Nagoya Institute of Technology](https://www.slp.nitech.ac.jp/en/) in 2018 and 2020, respectively, where I was fortunate to be advised by Prof. Akinobu Lee.
 
 ## News
+- 06/2026: Our CMDR paper was acceptted at ECCV2026! The dataset, code, and paper will be soon available!
 - 03/2024: Our CMDR paper got [Outstanding Paper Award](https://www.anlp.jp/nlp2026/award.html) (Top 1.6%) at The 32th Association of Natural Language Processing ([NLP2026](https://www.anlp.jp/nlp2026/))
 - 03/2025: I obtained Ph.D (Information Sciences) in [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/).
 - 02/2025: Our VDocRAG paper was acceptted at CVPR2025! The dataset, code, and paper will be soon available!
