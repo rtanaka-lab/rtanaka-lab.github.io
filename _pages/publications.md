@@ -7,6 +7,8 @@ author_profile: true
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## International Conference (Refereed)  
+- <u>Ryota Tanaka</u>, Taku Hasegawa, Kyosuke Nishida, [CMDR: Contextual Multimodal Document Retrieval](https://rtanaka-lab.github.io/), Proceedings of The 19th European Conference on Computer Vision (<b>ECCV2026</b>) (acceptance rate xxx/10473 = xx.xx%)
+
 - <u>Ryota Tanaka</u>, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents
 ](https://arxiv.org/abs/2504.09795), Proceedings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (<b>CVPR2025</b>) (acceptance rate 2878/13008 = 22.1%) [[project-page]](https://vdocrag.github.io/), [[code]](https://github.com/nttmdlab-nlp/VDocRAG)
 
@@ -19,6 +21,8 @@ Understanding with Instructions](https://arxiv.org/abs/2401.13313), Proceedings 
 
 
 ## International Workshop (Refereed)  
+- Haruka Kawasaki, <u>Ryota Tanaka</u>, Kyosuke Nishida, [Responses Fall Short of Understanding: Revealing the Gap between Internal Representations and Responses in Visual Document Understanding](https://arxiv.org/abs/2604.04411), Proceedings of 9th Multimodal Learning and Applications Workshop in CVPR2026 (<b>MULA2026</b>) (acceptance rate 15/35 = 42.9%, oral 3/35 = 8.6%) 
+
 - Haruto Yoshida, Keito Kudo, Yoichi Aoki, <u>Ryota Tanaka</u>, Itsumi Sito, Keisuke Sakaguchi, Kentaro Inui [How Well Do Vision Models Encode Diagram Attributes?](https://2024.aclweb.org/calls/student_research_workshop/), Non-archival submission for the 62nd Annual Meeting of the Association for Computational Linguistics Student Research Workshop (<b>ACL SRW 2024<b>)
 
 - Subaru Kimura, <u>Ryota Tanaka</u>, Shumpei Miyawaki, Jun Suzuki, [Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection](https://arxiv.org/abs/2408.03554), Non-archival submission for the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics Student Research Workshop (<b>NAACL SRW 2024<b>)
