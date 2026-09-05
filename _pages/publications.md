@@ -7,7 +7,10 @@ author_profile: true
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## International Conference (Refereed)  
-- <u>Ryota Tanaka</u>, Taku Hasegawa, Kyosuke Nishida, [CMDR: Contextual Multimodal Document Retrieval](https://rtanaka-lab.github.io/), Proceedings of The 19th European Conference on Computer Vision (<b>ECCV2026</b>) (acceptance rate xxx/10473 = xx.xx%)
+- Haruto Yoshida, Keito Kudo, Yoichi Aoki, <u>Ryota Tanaka</u>, Itsumi Sito, Keisuke Sakaguchi, Kentaro Inui [Probing Diagram Representations in Large Vision-Language Models](https://arxiv.org/abs/2603.02865), Proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP2026 Main</b>)
+
+
+- <u>Ryota Tanaka</u>, Taku Hasegawa, Kyosuke Nishida, [CMDR: Contextual Multimodal Document Retrieval](https://arxiv.org/abs/2607.05927), Proceedings of The 19th European Conference on Computer Vision (<b>ECCV2026</b>) (acceptance rate xxx/10473 = xx.xx%) [[project-page]](https://cmdr-bench.github.io/), [[code]](https://github.com/nttmdlab-nlp/CMDR-Bench)
 
 - <u>Ryota Tanaka</u>, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents
 ](https://arxiv.org/abs/2504.09795), Proceedings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (<b>CVPR2025</b>) (acceptance rate 2878/13008 = 22.1%) [[project-page]](https://vdocrag.github.io/), [[code]](https://github.com/nttmdlab-nlp/VDocRAG)
