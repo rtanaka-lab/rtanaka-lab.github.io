@@ -7,7 +7,7 @@ author_profile: true
 You can also check my [Google Scholar](https://scholar.google.com/citations?user=WPMcd_sAAAAJ&hl=en) profile. * denotes equal contribution.
 
 ## International Conference (Refereed)  
-- Haruto Yoshida, Keito Kudo, Yoichi Aoki, <u>Ryota Tanaka</u>, Itsumi Sito, Keisuke Sakaguchi, Kentaro Inui [Probing Diagram Representations in Large Vision-Language Models](https://arxiv.org/abs/2603.02865), Proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP2026 Main</b>)
+- Haruto Yoshida, Keito Kudo, Yoichi Aoki, <u>Ryota Tanaka</u>, Itsumi Sito, Keisuke Sakaguchi, Kentaro Inui [Probing Diagram Representations in Large Vision-Language Models](https://arxiv.org/abs/2603.02865), Proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP2026 Main</b>) (acceptance rate 2719/17669 = 15.4%)
 
 
 - <u>Ryota Tanaka</u>, Taku Hasegawa, Kyosuke Nishida, [CMDR: Contextual Multimodal Document Retrieval](https://arxiv.org/abs/2607.05927), Proceedings of The 19th European Conference on Computer Vision (<b>ECCV2026</b>) (acceptance rate xxx/10473 = xx.xx%) [[project-page]](https://cmdr-bench.github.io/), [[code]](https://github.com/nttmdlab-nlp/CMDR-Bench)
